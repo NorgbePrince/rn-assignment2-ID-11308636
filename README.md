@@ -13,7 +13,7 @@ The View component's background color can be altered.
 
 ## Screenshot
 
-![Screenshot of the app](./rn-assignment2-ID-11308636/assets/Screenshot%202024-05-24%20145030.png "App Screenshot")
+![Screenshot of the app](./rn-assignment2-ID-11308636/assets/Screenshot%202024-05-24%20152746.png "App Screenshot")
 
 
 ## Student ID
